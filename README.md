@@ -5,7 +5,7 @@
 - 📫 How to reach me @ my gmail: joshviberg73@gmail.com.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: i'm buried somewhere in my lines of code.
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Honey3adger)](https://git.io/streak-stats)
 <!---
 Honey3adger/Honey3adger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
